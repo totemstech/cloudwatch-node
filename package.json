@@ -1,0 +1,20 @@
+{
+  "name": "cloudwatch",
+  "version": "0.1.1",
+  "description": "Simple Cloudwatch Pre aggregation module for Node.js",
+  "keywords": [ "aws", "amazon", "cloudwatch", "aggregation", "driver" ],
+  "homepage": "https://github.com/teleport/cloudwatch-node",
+  "author": { "name": "Anthony MOI",
+              "email": "anthony@teleportd.com",
+              "url": "https://github.com/n1t0" },
+  "repository" :    { "type" :  "git",
+                      "url" :   "https://github.com/teleportd/cloudwatch-node.git" },
+  "dependencies": {
+    "fwk": "1.1.x",
+    "aws-sdk": "2.0.x"
+  },
+  "main" : "./lib/cloudwatch",
+  "engines" : {
+    "node" : ">=v0.8.0"
+  }
+}

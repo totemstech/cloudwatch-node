@@ -1,4 +1,4 @@
 cloudwatch-node
 ===============
 
-One liner wrapper for Amazon cloudwatch
+Simple One liner wrapper for Amazon cloudwatch
