@@ -1,6 +1,6 @@
 {
   "name": "cloudwatch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple Cloudwatch Pre aggregation module for Node.js",
   "keywords": [ "aws", "amazon", "cloudwatch", "aggregation", "driver" ],
   "homepage": "https://github.com/teleport/cloudwatch-node",
@@ -11,7 +11,7 @@
                       "url" :   "https://github.com/teleportd/cloudwatch-node.git" },
   "dependencies": {
     "fwk": "1.1.x",
-    "aws-sdk": "2.0.x"
+    "aws-sdk": "2.0.0-rc9"
   },
   "main" : "./lib/cloudwatch",
   "engines" : {
