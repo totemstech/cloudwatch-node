@@ -1,6 +1,6 @@
 {
   "name": "cloudwatch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple Cloudwatch Pre aggregation module for Node.js",
   "keywords": [ "aws", "amazon", "cloudwatch", "aggregation", "driver" ],
   "homepage": "https://github.com/teleport/cloudwatch-node",
